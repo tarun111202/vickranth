@@ -21,7 +21,7 @@
   <dependencies>
 <dependency>
   <groupId>com.ibeetl</groupId>
-  <artifactId>sql-mapper</artifactId>
+  <artifactId>sql-act</artifactId>
   <version>3.19.3-RELEASE</version>
 </dependency>
 <dependency>
