@@ -20,6 +20,11 @@
 
   <dependencies>
 <dependency>
+  <groupId>com.ibeetl</groupId>
+  <artifactId>sql-mapper</artifactId>
+  <version>3.19.3-RELEASE</version>
+</dependency>
+<dependency>
   <groupId>com.cleveradssolutions</groupId>
   <artifactId>google</artifactId>
   <version>21.3.0.0</version>
