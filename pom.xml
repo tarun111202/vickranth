@@ -19,6 +19,12 @@
   </properties>
 
   <dependencies>
+<dependency>
+  <groupId>com.cleveradssolutions</groupId>
+  <artifactId>google</artifactId>
+  <version>21.3.0.0</version>
+  <type>aar</type>
+</dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
